@@ -1,0 +1,35 @@
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\bin\Debug\EventBoss1.exe
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\bin\Debug\EventBoss1.pdb
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\bin\Debug\EventBoss1.xml
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\EventBoss1.Form1.resources
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\EventBoss1.Resources.resources
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\EventBoss1.vbproj.GenerateResource.Cache
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\EventBoss1.exe
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\EventBoss1.xml
+C:\Users\Nason.Nombrado\AppData\Local\Temporary Projects\EventBoss1\obj\Debug\EventBoss1.pdb
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.exe
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.xml
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.pdb
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\bin\Debug\EventBoss1.exe
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\bin\Debug\EventBoss1.pdb
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\bin\Debug\EventBoss1.xml
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\ResolveAssemblyReference.cache
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Resources.resources
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.vbproj.GenerateResource.Cache
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Form2.resources
+I:\1. Computer Science\Nissan\private things\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Boss1.resources
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.exe
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.xml
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.pdb
+E:\EventBoss1\EventBoss1\bin\Debug\EventBoss1.exe
+E:\EventBoss1\EventBoss1\bin\Debug\EventBoss1.pdb
+E:\EventBoss1\EventBoss1\bin\Debug\EventBoss1.xml
+E:\EventBoss1\EventBoss1\obj\Debug\ResolveAssemblyReference.cache
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Boss1.resources
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Resources.resources
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.RPS.resources
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.TicTacToe.resources
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.vbproj.GenerateResource.Cache
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Lose.resources
+E:\EventBoss1\EventBoss1\obj\Debug\EventBoss1.Win.resources

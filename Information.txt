@@ -1,0 +1,41 @@
+Visual Vagrant
+
+Character list
+
+Ledgend
+
+Camera/player (static)
+
+Map (25 x 25)
+	FOV (5 x 5)
+
+Objectives
+
+Threat chance (15%) case of 3/20
+
+Problems
+- Had to figure out how to move the character
+	used memory (explain)
+
+- Had to figure out how random events would run
+	show random gen code
+
+- Had to figure out how code would run at different places
+	times 4 
+
+- Had to figure out how code can run across forums
+	show public
+
+- Had to figure out how to save game state in a simpler way than kavin's
+because it would take too long to initialize 6250 memories
+
+- Figured out how to have a save game state when on other events from the forum
+	- new problem, returning to old state and not let it reset.
+		- at the same time variables running to check if event was completed
+		- and same time a loop running to update all values across the forms
+
+we were able to finish all that only this week and it was a lot of tedious work, but than we could get
+started on the story. Hence, all the story line was not complete. You noticed how all the labels are not
+in proper coding ethics, because with the tedious work alone, Combined we have got around 54 hours and it
+would have taken an additioal 12 to get all that organized. and that 12 was too valuble to use on renaming
+labels and buttons.
